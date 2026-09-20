@@ -8,7 +8,7 @@
   "server": {
     "ip": "NotOffense.aternos.me",
     "port": 49961,
-    "version": "26.3"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
